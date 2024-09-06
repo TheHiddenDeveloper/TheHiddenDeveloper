@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheHiddenDeveloper
 - 👀 I’m interested in Drone Technology and Programming, Mobile Development and Ai as well as anything Tech related
-- 🌱 I’m currently learning Scala and Laravel
+- 🌱 I’m currently learning Scala and Laravel. I am also interested in PHP and Python as well
 - 💞️ I’m looking to collaborate on anything tech related and promise my full contribution to your team
 - 📫 How to reach me? Well, I'm TheHiddenDeveloper for a reason😂😂
 
