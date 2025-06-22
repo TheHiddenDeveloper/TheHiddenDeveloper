@@ -1,14 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
----
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?color=cdaf29&font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=👋+Howdy,+I'm+Rodney;Full-Stack+Developer;Specialize+in+Web+and+Mobile Apps;Aspiring+Dev/Ops+Engineer;I+create+systems+from+scratch" alt="Typing SVG" />
-  </a>
-</div>
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHowdy%2C+I'm+Rodney;I+am+a+Full-Stack+Developer;I+build+systems+from+scratch!)](https://git.io/typing-svg)
 
 <h2 align="center">💫 About Me</h2>
 
