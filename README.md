@@ -41,9 +41,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="140" src="https://streak-stats.demolab.com?user=TheHiddenDeveloper&theme=cobalt" alt="GitHub Streak" />
-  </a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=TheHiddenDeveloper)](https://git.io/streak-stats)
   &nbsp;
   &nbsp;
   <img height="140" class="img" src="https://github-readme-stats.vercel.app/api?username=thehiddendeveloper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
